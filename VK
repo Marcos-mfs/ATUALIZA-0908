@@ -5,6 +5,8 @@ https://streams.the6tv.duckdns.org:2443/locals/NewYorkCity/wabc-dt1.m3u8
 https://streams.the6tv.duckdns.org:2443/locals/NewYorkCity/wcbs-dt1.m3u8
 #EXTINF:-1,NBC
 https://streams.the6tv.duckdns.org:2443/locals/NewYorkCity/wnbc-dt1.m3u8
+#EXTINF:-1,COZI TV
+https://streams.the6tv.duckdns.org:2443/locals/NewYorkCity/wnbc-dt2.m3u8
 #EXTINF:-1,FOX NY
 https://streams.the6tv.duckdns.org:2443/locals/NewYorkCity/wnyw-dt1.m3u8
 #EXTINF:-1,UNIVISION
