@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:-1,ABC
-https://streams.the6tv.duckdns.org:2443/locals/NewYorkCity/wabc-dt1.m3u8
-#EXTINF:-1,CBS
-https://streams.the6tv.duckdns.org:2443/locals/NewYorkCity/wcbs-dt1.m3u8
-#EXTINF:-1,NBC
-https://streams.the6tv.duckdns.org:2443/locals/NewYorkCity/wnbc-dt1.m3u8
-#EXTINF:-1,COZI TV
-https://streams.the6tv.duckdns.org:2443/locals/NewYorkCity/wnbc-dt2.m3u8
-#EXTINF:-1,FOX NY
-https://streams.the6tv.duckdns.org:2443/locals/NewYorkCity/wnyw-dt1.m3u8
-#EXTINF:-1,UNIVISION
-https://streams.the6tv.duckdns.org:2443/locals/NewYorkCity/wxtv-dt1.m3u8
 #EXTINF:-1,XIBO
 http://201.159.95.22:8000/play/a00a/index.m3u8
 #EXTINF:-1,gazeta
